@@ -4,6 +4,9 @@ margin: 10px
 ;border: #bd9f9f solid 3px;
 }
 
+h3{font-family: 'Verdana';
+font-weight: 600;
+color: black;}
 
 p{color: #1230b9;
     font-family: sans-serif, 'lucida sans';
