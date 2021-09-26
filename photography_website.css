@@ -5,13 +5,27 @@ margin: 10px
 }
 
 
-p{color: #191970;
+p{color: #1230b9;
+    font-family: sans-serif, 'lucida sans';
 font-size:large;
-text-align:justify ;}
+font-style: oblique;
+text-align:justify ;
+overflow: auto;}
 
+p.main{text-align: left;
+border: thistle dotted 3px;}
 
 div{color: #008080;
 font-size: large;
 font-weight: bold;
-padding: 30px;}
+padding: 50px;
+border: 3px solid yellow;}
+
+em{color: red;
+    justify-content: center;}
+
+strong{color: rgb(153, 51, 73);}
+
+a:hover{color: seagreen;
+background-color: rgb(172, 181, 189);}
 
