@@ -8,3 +8,27 @@ This webpage contains some of my best shoots in my photography journey.
 
 This README was created by:
 1. Esther Anyona
+
+The following is a list of some of the styles used;
+
+1. HTML tags and elements like;
+
+* p
+* div
+* span
+* ordered and unordered list tags
+* header tags
+* img
+* strong & em tags
+
+2. Styling rules examples;
+* selectors
+* box model
+* background-color
+* font family
+* pseudoclasses
+* borders
+* block elements
+* Font weight 
+* Font style
+* overflow
