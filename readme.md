@@ -32,3 +32,9 @@ The following is a list of some of the styles used;
 * Font weight 
 * Font style
 * overflow
+
+This project was a great starter pack for learning about git and github and how to interact 
+
+# MIT License
+
+Copyright (c) [2021] [Esther Kemunto Anyona]
